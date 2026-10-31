@@ -1,4 +1,4 @@
-# instagram
+# instagram-2
 
 A minimal Next.js site with a navigation bar and a white hero section featuring a desktop hover dot matrix.
 
