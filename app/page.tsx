@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useRef, useState, type PointerEvent } from "react";
 import { Iphone } from "@/components/ui/iphone";
 
-const portfolioUrl = "https://satvic-movement-founder-office.vercel.app";
+const portfolioUrl = "https://satvic-movement-pmd.vercel.app";
 const brandName = "Satvic Movement";
 const highlightDuration = (brandName.length - 1) * 45 + 520;
 
